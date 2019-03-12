@@ -157,12 +157,12 @@ html,body{
     width: 50%;
     height: 50%;
     margin: 0 auto;
-    border: 5px solid rgba(255,255,255,0.6);
+    /* border: 5px solid rgba(255,255,255,0.6); */
     background-color: #007B5D;
     border-radius: 20px;
     margin-bottom: 30px;
     margin-top: 20px;
-    box-shadow: inset 0 0 20px white;
+    box-shadow:  0 0px 30px #fff;
 }
 
 .sec2Bor img{
@@ -634,6 +634,9 @@ html,body{
 	text-align: center;
 	line-height: 30px;
 	margin-top: 20px;
+}
+.section5 .production .production-content a:hover{
+	background-color: lightblue;
 }
 .section5 .production .production-content a img{
 	width: 18px;

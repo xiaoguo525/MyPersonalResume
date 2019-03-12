@@ -32,6 +32,6 @@
   console.log('本简历采用html+css+swiper+ainimat开发构建。');
   console.log('源码已开源在（https://github.com/xiaoguo525),喜欢请点个star吧！');
   console.log('如果您有什么建议或者想交流前端，欢迎您联系我,我们互相学习，共同进步^_^ ');
-  console.log('QQ：438797254');
+  console.log('QQ：438797254；电话：15959219308');
 
 
